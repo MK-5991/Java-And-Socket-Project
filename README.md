@@ -7,6 +7,6 @@ For those who do not know Java or did not complete Object Oriented Programming c
 
 Notes are given regarding Java Object Oriented Programming in the File known as knowledge.
 
-Hear everyone's work will be tracked, those who do not contribute should expect themselves to be removed from the group before Final.
+Here everyone's work will be tracked, those who do not contribute should expect themselves to be removed from the group before Final.
 
 Happy Coding.
